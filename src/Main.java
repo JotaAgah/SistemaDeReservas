@@ -79,6 +79,7 @@ class AreaComum{
         this.nome = nome;
     }
 
+
     public int getCapacidadeMaxima() {
         return capacidadeMaxima;
     }
